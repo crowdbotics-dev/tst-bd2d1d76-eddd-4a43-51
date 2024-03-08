@@ -1,0 +1,14 @@
+{
+  "scaffold": {
+    "type": "react-native",
+    "version": "2.7.0",
+    "cookiecutter_context": {
+      "project_name": "TST-bd2d1d76-eddd-4a43-a",
+      "project_slug": "tst_bd2d1d76_eddd_4a43_51",
+      "project_dash_slug": "tst-bd2d1d76-eddd-4a43-51",
+      "project_description": "This react_native application was built with Crowdbotics www.crowdbotics.com",
+      "owner_email": "cb+loadtest100@abd.dev",
+      "ssh_key_fingerprint": "c5:bd:6d:0b:a1:39:97:83:ca:b5:13:59:14:ff:49:40"
+    }
+  }
+}
